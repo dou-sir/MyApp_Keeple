@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/fitness"
+            android:title="nav_home"/>
+        <item
+            android:id="@+id/nav_mygoal"
+            android:icon="@drawable/fitness"
+            android:title="nav_mygoal"/>
+        <item
+            android:id="@+id/nav_newgol"
+            android:icon="@drawable/fitness"
+            android:title="nav_newgol"/>
+        <item
+            android:id="@+id/nav_newfigure"
+            android:icon="@drawable/fitness"
+            android:title="nav_newfigure"/>
+        <item
+            android:id="@+id/nav_showfigure"
+            android:icon="@drawable/fitness"
+            android:title="nav_showfigure"/>
+        <item
+            android:id="@+id/nav_showfoodCC"
+            android:icon="@drawable/fitness"
+            android:title="nav_showfoodCC"/>
+        <item
+            android:id="@+id/nav_showconusumeCC"
+            android:icon="@drawable/fitness"
+            android:title="nav_showconusumeCC"/>
+        <item
+            android:id="@+id/nav_showself"
+            android:icon="@drawable/fitness"
+            android:title="nav_showself"/>
+        <item
+            android:id="@+id/nav_"
+            android:icon="@drawable/fitness"
+            android:title="nav_"/>
+        <item
+            android:id="@+id/nav"
+            android:icon="@drawable/fitness"
+            android:title="nav"/>
+
+    </group>
+</menu>
